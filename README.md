@@ -22,29 +22,3 @@ https://dig-hum.de/ag-multilingual-dh
 # Mailinglist
 
 dhd-ag-multilingual-dh@lists.digitalhumanities.org
-
-# Kontakt
-
-Dr. Jonas Müller-Laackman (Convenor)
-
-Closing the Gap in Non-Latin Script Data  
-Objective 3: Advancing Research Quality and Value  
-Berlin University Alliance  
-
-Seminar for Semitic and Arabic Studies  
-Freie Universität Berlin  
-Fabeckstraße 23-25  
-14195 Berlin  
-
-E-Mail: jonas.mueller-laackman@fu-berlin.de  
-   
-und
-   
-Dr. Cosima Wagner (Co-Convenor)  
-  
-Freie Universität Berlin  
-Universitätsbibliothek  
-Garystraße 39  
-14195 Berlin  
-  
-E-Mail: cosima.wagner@fu-berlin.de  
