@@ -17,6 +17,7 @@ Die AG beabsichtigt, die Kritik aufzugreifen und zu diskutieren, um an internati
 
 # Website
 
+https://m-l-d-h.github.io/DHd-AG/  
 https://dig-hum.de/ag-multilingual-dh
 
 # Mailinglist
