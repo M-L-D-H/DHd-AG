@@ -1,0 +1,46 @@
+/*
+color palette:
+    #00aea0 petrol
+    #fff    white
+    #4e4351 dark grey
+    #9500c1 purple
+    #00756d dark petrol
+    #b4a7b7 light grey
+*/
+
+.bg-petrol {
+    background-color: #00aea0;
+    color: #fff
+}
+
+.bg-grey {
+    background-color: #4e4351;
+}
+
+.bg-purple {
+    background-color: #9500c1;
+    color: #fff;
+}
+
+p, li {
+    line-height: 2 !important;
+    text-align: justify;
+}
+
+body {
+    font-family: 'Noto Sans';
+    background-color:#b4a7b7;
+}
+
+.dhd {
+    font-weight: bold;
+    line-height: 0.75 !important;
+    line-break: anywhere;
+}
+
+a, a:active, a:visited {
+    color: #00aea0 !important;
+}
+a:hover {
+    color: #9500c1 !important;
+}
