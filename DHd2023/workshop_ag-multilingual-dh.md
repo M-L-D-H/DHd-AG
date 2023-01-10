@@ -2,10 +2,10 @@
 title: "Infrastructures, Cultures, Communities: Herausforderungen von Multilingualität in den Digital Humanities"
 subtitle: ""
 author: 
-	- Till Grallert
-	- Jana Mende
-	- Jonas Müller-Laackman
-	- Cosima Wagner
+    - Till Grallert
+    - Jana Mende
+    - Jonas Müller-Laackman
+    - Cosima Wagner
 date: 2022-08-02 
 lang: de
 bibliography: DHd2023.csl.json
