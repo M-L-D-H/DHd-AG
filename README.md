@@ -11,9 +11,10 @@ Die AG beabsichtigt, die Kritik aufzugreifen und zu diskutieren, um an internati
 # Arbeitsschwerpunkte
 
 - Erarbeitung von Schwachstellen im Hinblick auf die Unterstützung nicht-lateinischer Schriften in DH-Infrastruktur.
-- Kritische Diskussion der deutschen und internationalen DH-Praxis im Hinblick auf (neo)koloniale Praktiken. Das umfasst Vokabular, Infrastruktur, Methodologien und Themenfelder. • Unterstützung und Beratung zur Sichtbarmachung von Missständen.
-- Erarbeitung von Lösungsansätzen und Verbesserung technischer Anforderungen im Bereich der Multilingualität durch die Sichtbarmachung der Probleme im Austausch mit Entwicker*innen.
-- Vernetzung von Akteur*innen im Bereich multilinguale DH national und international auf und durch Workshops, Konferenzen und Publikationen
+- Kritische **Diskussion** der deutschen und internationalen DH-Praxis im Hinblick auf (neo)koloniale Praktiken. Das umfasst Vokabular, Infrastruktur, Methodologien und Themenfelder. 
+- **Unterstützung** und Beratung zur Sichtbarmachung von Missständen.
+- Erarbeitung von Lösungsansätzen und Verbesserung technischer Anforderungen im Bereich der Multilingualität durch die Sichtbarmachung der Probleme im Austausch mit Entwicker\*innen.
+- **Vernetzung** von Akteur\*innen im Bereich multilinguale DH national und international auf und durch Workshops, Konferenzen und Publikationen
 
 # Website
 
