@@ -18,12 +18,16 @@ Die AG beabsichtigt, die Kritik aufzugreifen und zu diskutieren, um an internati
 
 # Website
 
-https://m-l-d-h.github.io/DHd-AG/  
-https://dig-hum.de/ag-multilingual-dh
+<https://m-l-d-h.github.io/DHd-AG/>
+<https://dig-hum.de/ag-multilingual-dh>
 
 # Mailinglist
 
-dhd-ag-multilingual-dh@lists.digitalhumanities.org
+<dhd-ag-multilingual-dh@lists.digitalhumanities.org>
+
+# Wiki
+
+<https://github.com/M-L-D-H/DHd-AG/wiki>
 
 # Termine für die Community Hour 2023
 
