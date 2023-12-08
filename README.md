@@ -29,19 +29,6 @@ Die AG beabsichtigt, die Kritik aufzugreifen und zu diskutieren, um an internati
 
 <https://github.com/M-L-D-H/DHd-AG/wiki>
 
-# Termine für die Community Hour 2023
+# Community Hour
 
-Wenn ihr euch für einen bestimmten Termin schon vormerken lassen wollt, um etwa ein Projekt oder Thema zu präsentieren oder zur Diskussion zu stellen, schreibt gern den Convenorn eine Nachricht oder über Discord in den Channel `#community_hour`.
-
-- 2023-01-05 (Vorstellung: Qalamos)
-- 2023-02-02
-- 2023-03-02
-- 2023-04-06
-- 2023-05-04
-- 2023-06-01
-- 2023-07-06
-- 2023-08-03
-- 2023-09-07
-- 2023-10-05
-- 2023-11-02
-- 2023-12-07
+Jeden ersten Donnerstag im Monat um 13:00 Uhr findet über Zoom unsere Community Hour statt. Diese dient der Vernetzung und dem zwanglosen Austausch über aktuelle Projekte und Probleme im Bereich Multilingual Digital Humanities. Teilnehmen kann jede:r Interessierte.
